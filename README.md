@@ -2,6 +2,8 @@
 
 A comprehensive collection of developer icons for languages, frameworks, databases, DevOps, and tools.
 
+> **Note:** These icons are not the official logos. They are simple placeholders with text and background colors. Real logos will be added in the future.
+
 ## Usage
 
 ### Clone the repository
