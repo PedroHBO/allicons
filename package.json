@@ -1,0 +1,24 @@
+{
+  "name": "@allicons/dev-icons",
+  "version": "1.0.0",
+  "description": "A comprehensive collection of developer icons for languages, frameworks, databases, DevOps, and tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedroh/allicons.git"
+  },
+  "keywords": [
+    "icons",
+    "developer",
+    "devicons",
+    "svg",
+    "programming",
+    "frameworks",
+    "languages"
+  ],
+  "author": "pedroh",
+  "license": "MIT"
+}
